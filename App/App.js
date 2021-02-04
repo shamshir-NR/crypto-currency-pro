@@ -1,5 +1,4 @@
 import React, {useEffect} from 'react';
-import {View, Text, Alert} from 'react-native';
 import Navigator from './Navigator/Navigator';
 import {useDispatch, useSelector} from 'react-redux';
 import {fetchCurrencyData} from './Redux/Actions/home';
@@ -15,7 +14,7 @@ const App = () => {
   }, []);
   useEffect(() => {
     if (apiError) {
-      Toast.show('Network Error',3);
+      Toast.show('Network Error', 3);
     }
   }, [apiError]);
   return (
