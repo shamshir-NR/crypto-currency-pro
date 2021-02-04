@@ -8,7 +8,7 @@ Xcode 12.0 or higher
 
 ## Installation
 
-* For initial configuration of react native please refer [this](https://reactnative.dev/docs/environment-setup)
+**1** For initial configuration of react native please refer [this](https://reactnative.dev/docs/environment-setup)
 * To run the project in iOS, 
     * clone the repo `git clone https://github.com/shamshiranees/crypto-currency-pro.git`
     * run `npm install` from the Root directory.
@@ -17,11 +17,11 @@ Xcode 12.0 or higher
     * you can skip step 4 and run the project using terminal using `npx react-native run-ios`
 
 * To run the project Android,
-    1. follow step 1 and step 2 of iOS.
-    2. open the android folder in Android studio
-    3. wait for build to complete
-    4. run the project.
-    5. you can skip step 2-4 and run the project using terminal using `npx react-native run-android`
+    * follow step 1 and step 2 of iOS.
+    * open the android folder in Android studio
+    * wait for build to complete
+    * run the project.
+    * you can skip step 2-4 and run the project using terminal using `npx react-native run-android`
 
 
 
