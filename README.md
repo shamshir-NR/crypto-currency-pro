@@ -1,5 +1,6 @@
 ## Crypto Currency Pro
-    The is a sample project which list curent cryptocurrency statistics. App refresh data in every 3 seconds. You can add new cryptocurrency by searching name of the currency using addcryptocurrency option. App used Redux for state management.
+
+    The is a sample project which list curent cryptocurrency statistics.<br> App refresh data in every 3 seconds.<br> You can add new cryptocurrency by searching name of the currency using addcryptocurrency option.<br> App used Redux for state management.
 
 
 ## Requirements
