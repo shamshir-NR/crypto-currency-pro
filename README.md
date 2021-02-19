@@ -4,9 +4,9 @@ There is an option to remove crytocurrency from "CryptoTracker" by sliding the i
 
 ## ScreenShots
 
-![ScreenShot](https://github.com/shamshiranees/crypto-currency-pro/blob/master/screenshot1.png)
-![ScreenShot](https://github.com/shamshiranees/crypto-currency-pro/blob/master/screenshot2.png)
-![ScreenShot](https://github.com/shamshiranees/crypto-currency-pro/blob/master/screenshot3.png)
+![ScreenShot](https://github.com/shamshiranees/crypto-currency-pro/blob/main/screenshot1.png)
+![ScreenShot](https://github.com/shamshiranees/crypto-currency-pro/blob/main/screenshot2.png)
+![ScreenShot](https://github.com/shamshiranees/crypto-currency-pro/blob/main/screenshot3.png)
 
 
 ## Requirements
